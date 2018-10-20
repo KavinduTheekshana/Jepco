@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BABY", "BABY\BABY.csproj", "{D4866110-E78C-48FD-945A-3C251E71CB5B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup3", "Setup3\Setup3.vdproj", "{675B2A96-E1A1-41BE-90B9-300949AD344E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Jepco Air Conditioning", "Jepco Air Conditioner\Jepco Air Conditioner.vdproj", "{BDEF6965-D8D5-4920-ADF5-85A9A3C3026B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup4", "Setup4\Setup4.vdproj", "{A5300B09-4DA6-415D-B706-D542D8F6483E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4866110-E78C-48FD-945A-3C251E71CB5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4866110-E78C-48FD-945A-3C251E71CB5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4866110-E78C-48FD-945A-3C251E71CB5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4866110-E78C-48FD-945A-3C251E71CB5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675B2A96-E1A1-41BE-90B9-300949AD344E}.Debug|Any CPU.ActiveCfg = Debug
+		{675B2A96-E1A1-41BE-90B9-300949AD344E}.Release|Any CPU.ActiveCfg = Release
+		{BDEF6965-D8D5-4920-ADF5-85A9A3C3026B}.Debug|Any CPU.ActiveCfg = Debug
+		{BDEF6965-D8D5-4920-ADF5-85A9A3C3026B}.Release|Any CPU.ActiveCfg = Release
+		{A5300B09-4DA6-415D-B706-D542D8F6483E}.Debug|Any CPU.ActiveCfg = Debug
+		{A5300B09-4DA6-415D-B706-D542D8F6483E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF1B853E-FF48-4689-B33D-635BD8D9A02F}
+	EndGlobalSection
+EndGlobal
